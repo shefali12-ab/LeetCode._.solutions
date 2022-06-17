@@ -15,4 +15,5 @@ public:
         }
         return v;
     }
+    // the idea here is to run a loop from i=0 to i=n and for every i check the number of set bits and push it in a vector
 };
